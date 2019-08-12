@@ -1,0 +1,17 @@
+{
+  "name": "tsredditchatclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sendbird": "^3.0.104",
+    "snoowrap": "^1.19.0",
+    "typescript": "^3.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "isthistechsupport",
+  "license": "MIT"
+}
