@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@types/node": "^12.7.1",
+    "fs": "0.0.1-security",
     "sendbird": "^3.0.104",
     "snoowrap": "^1.19.0",
     "typescript": "^3.5.3"
